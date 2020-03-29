@@ -15,10 +15,13 @@
 Webpack
 <li>
 NPM-пакеты:
+
 #### сборка develop
-@babel/cli @babel/core @babel/preset-env autoprefixer babel-loader cross-env css-loader cssnano file-loader gh-pages html-loader html-webpack-plugin@3.2.0 image-webpack-loader lodash mini-css-extract-plugin postcss-loader resolve-url resolve-url-loader style-loader url-loader webpack webpack-cli webpack-dev-server webpack-md5-hash- 
+@babel/cli @babel/core @babel/preset-env autoprefixer babel-loader cross-env css-loader cssnano file-loader gh-pages html-loader html-webpack-plugin@3.2.0 image-webpack-loader lodash mini-css-extract-plugin postcss-loader resolve-url resolve-url-loader style-loader url-loader webpack webpack-cli webpack-dev-server webpack-md5-hash
+
 #### сборка build:
-babel-polyfill core-js optimize-css-assets-webpack-plugin resolve-cwd### Инструкция по сборке:
+babel-polyfill core-js optimize-css-assets-webpack-plugin resolve-cwd
+### Инструкция по сборке:
 <li>
 точка входа: index.js
 <li>
