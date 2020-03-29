@@ -3,7 +3,7 @@
 ## Яндекс-Практика
 <https://github.com/YuriyFeo/project11.github.io.git/>
 
-Ссылка на ссылку на github pages: <https://yuriyfeo.github.io/project11.github.io/>
+Ссылка на github pages: <https://yuriyfeo.github.io/project11.github.io/>
 
 Самостоятельная практическая работа для улучшение навыков программирования. 
 
