@@ -2,6 +2,7 @@
 ### Версия 1.0.0
 ## Яндекс-Практика
 <https://github.com/YuriyFeo/project11.github.io.git/>
+
 Ссылка на ссылку на github pages: <https://yuriyfeo.github.io/project11.github.io/>
 
 Самостоятельная практическая работа для улучшение навыков программирования. 
@@ -30,6 +31,7 @@ babel-polyfill core-js optimize-css-assets-webpack-plugin resolve-cwd
 команда npm run dev запускает сборку develop и открывает проект на локальном сервере по адресу localhost:8080
 <li>
 команда npm run deploy развёртывает проект на сервере gh-pages
+  
 ### Результат проектной работы:
 <li>
 Репозиторий Git состоит из веток master и develop
