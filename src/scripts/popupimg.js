@@ -1,4 +1,4 @@
-class ImgPopup {
+export class ImgPopup {
     constructor(temp) {
         this.temp = temp;
         this.popupClose = temp.querySelector('.popup__close');

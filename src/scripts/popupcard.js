@@ -1,4 +1,4 @@
-class PopupCard {
+export class PopupCard {
     constructor(temp) {
         this.temp = temp;
         this.popupClose = temp.querySelector('.popup__close');

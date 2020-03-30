@@ -1,4 +1,4 @@
-class UserInfo {
+export class UserInfo {
     constructor(elementEdit) {
         this.elementEdit = elementEdit;
     }

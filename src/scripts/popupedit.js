@@ -1,4 +1,4 @@
-class PopupEdit {
+export class PopupEdit {
     constructor(temp) {
         this.temp = temp;
         this.popupClose = temp.querySelector('.popup__close');
